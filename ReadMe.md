@@ -104,6 +104,9 @@ Consider this example:
 - On the automatic interval (2 rovers x 20 rover multiplier) 40 cheese resources will be added.
 - On a click (1 click + 3 pickaxes \* 1 pickaxe multiplier) 4 cheese resources will be added.
 
+### Visual Mockup
+![Moon](./moon.png)
+
 ## Requirements
 
 ### Visualization
